@@ -58,7 +58,7 @@ Structured Output (JSON)
 ```
 
 ## Tech stack
-- Python 3.11+
+- Python 3.12+
 - FastAPI
 - Pydantic
 - python-dotenv
